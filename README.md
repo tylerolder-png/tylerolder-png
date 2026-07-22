@@ -4,8 +4,6 @@ Computer Engineering student at Virginia Tech. I build Python tools that connect
 third-party APIs — authentication flows, scheduled jobs, and the work of getting
 separate services to talk to each other reliably.
 
-Currently interning on the Red Team at Security Risk Advisors.
-
 ### Projects
 
 **[Draft-engine](https://github.com/tylerolder-png/Draft-engine)** — Stateless
