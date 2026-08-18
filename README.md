@@ -6,13 +6,13 @@ separate services to talk to each other reliably.
 
 ### Projects
 
-**[Draft-engine]** — Stateless
-single-page tool that evaluates competitive draft state client-side and returns
-pick and ban recommendations.
-
 **whoop-agent** — Pulls biometric data from the WHOOP API each morning, passes it
 to the Claude API for interpretation, and writes the result to Google Calendar.
 OAuth 2.0 across two providers with persistent token refresh.
+
+**Draft-engine** — Stateless
+single-page tool that evaluates competitive draft state client-side and returns
+pick and ban recommendations.
 
 **the-signal** — Staged pipeline that collects from curated RSS sources, ranks and
 synthesizes through the Claude API, and delivers a formatted briefing over SMTP.
