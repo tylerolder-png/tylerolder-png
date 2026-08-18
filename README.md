@@ -1,10 +1,14 @@
 ## Tyler Older
 
-Computer Engineering student at Virginia Tech. I build Python tools that connect
-third-party APIs — authentication flows, scheduled jobs, and the work of getting
-separate services to talk to each other reliably.
+Computer Engineering student at Virginia Tech. I build tools that connect
+third-party APIs — authentication flows, scheduled jobs, and the work of
+getting separate services to talk to each other reliably.
 
 ### Projects
+**[Lift-log](https://github.com/tylerolder-png/lift-log-template)** — Strength tracker that estimates one-rep maxes from logged sets
+and back-solves the next session's working load. Domain logic isolated from
+React and unit tested; charts lazy-loaded to cut the initial bundle 71%.
+[Live demo](https://lift-log-template.vercel.app)
 
 **Whoop-agent** — Pulls biometric data from the WHOOP API each morning, passes it
 to the Claude API for interpretation, and writes the result to Google Calendar.
@@ -19,7 +23,7 @@ synthesizes through the Claude API, and delivers a formatted briefing over SMTP.
 
 ### Working with
 
-`Python` `JavaScript` `C` `Linux` `Git` `REST APIs` `OAuth 2.0`
+`Python` `TypeScript` `JavaScript` `C` `React` `Linux` `Git` `REST APIs` `OAuth 2.0`
 
 ### Elsewhere
 
