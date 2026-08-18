@@ -6,7 +6,7 @@ separate services to talk to each other reliably.
 
 ### Projects
 
-**whoop-agent** — Pulls biometric data from the WHOOP API each morning, passes it
+**Whoop-agent** — Pulls biometric data from the WHOOP API each morning, passes it
 to the Claude API for interpretation, and writes the result to Google Calendar.
 OAuth 2.0 across two providers with persistent token refresh.
 
@@ -14,7 +14,7 @@ OAuth 2.0 across two providers with persistent token refresh.
 single-page tool that evaluates competitive draft state client-side and returns
 pick and ban recommendations.
 
-**the-signal** — Staged pipeline that collects from curated RSS sources, ranks and
+**The-Signal** — Staged pipeline that collects from curated RSS sources, ranks and
 synthesizes through the Claude API, and delivers a formatted briefing over SMTP.
 
 ### Working with
