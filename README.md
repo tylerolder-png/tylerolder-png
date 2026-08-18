@@ -6,9 +6,9 @@ separate services to talk to each other reliably.
 
 ### Projects
 
-**[Draft-engine](https://github.com/tylerolder-png/Draft-engine)** — Stateless
+**[Draft-engine]** — Stateless
 single-page tool that evaluates competitive draft state client-side and returns
-pick and ban recommendations. [Live](https://tylerolder-png.github.io/Draft-engine/)
+pick and ban recommendations.
 
 **whoop-agent** — Pulls biometric data from the WHOOP API each morning, passes it
 to the Claude API for interpretation, and writes the result to Google Calendar.
